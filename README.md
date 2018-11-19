@@ -50,7 +50,8 @@ npm run build --report
 ## 使用截图
 最终效果搞成了这个样子
 ![使用截图][2]
-##实现过程
+
+## 实现过程
 记录了一些（无聊的）思路和开发流程
 
 [实践是检验程序员的唯一标准01：用户不想跟你说话并向你扔出一张图片 - 图片上传组件开发【思路篇】][3]
@@ -59,7 +60,7 @@ npm run build --report
 
 
 ## 待完成功能
-###181119
+### 181119
 * 截取功能的开关 - 我万一就想上传整张图呢
 * 标记功能 - 我想标个终点
 * 打码功能 - 别想歪了，毕竟金融行业怕泄漏客户信息！
@@ -68,7 +69,7 @@ npm run build --report
 这是我在github留下的第1个印记，感谢(dear)[包包][5]的鼓励和督促！
 
 [1]:https://github.com/vuejs/vue
-[2]:https://segmentfault.com/img/bVbip2p
+[2]:https://image-static.segmentfault.com/263/439/2634393145-5bc9d90ad64b9_articlex
 [3]:https://segmentfault.com/a/1190000013038300?_ea=4843335
 [4]:https://segmentfault.com/a/1190000016743925?_ea=4855622
 [5]:https://github.com/iris-official
